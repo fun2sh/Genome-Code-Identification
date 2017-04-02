@@ -1,6 +1,9 @@
-Identification of Coding Regions of the Genome
+# Identification of Coding Regions of the Genome
 
-Megan Greening, Karthik Handady, and Suresh Kumar
+Team Memebers:
+1. Megan Greening
+2. Karthik Handady
+3. Suresh Kumar
 
 For our project we will aim to identify functional regions of the genome. Genomes can essentially be split into two parts, noncoding regions that do not encode protein sequences and coding regions that do encode protein sequences. A significant part of genomic research is currently focused on the coding regions of genomes. Since there is a large amount of genetic data it makes sense to automate the process for identifying coding regions in a genome. Due to the fact that there is a vagueness in the rules in determining what regions are coding regions it makes sense to use a machine learning approach.
 
